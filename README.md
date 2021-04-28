@@ -1,16 +1,22 @@
 # portfolio_app_task
 
-A new Flutter application.
+**Expected Result.**
 
-## Getting Started
+![WhatsApp Image 2021-04-28 at 3 34 06 PM](https://user-images.githubusercontent.com/55401789/116422087-4dfc9a80-a837-11eb-8317-08a080b2b225.jpeg)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Question
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Title: Flutter 1.1: Portfolio app
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Using present knowledge of layouts in Flutter, create a basic Portfolio app that displays your name, a short description of yourself and any other detail to fill out your application. Creativity is welcome.
+
+You can explore other widgets in Flutter like icons, images and others to improve your portfolio app.
+
+Here are a few links to help you explore more widgets.
+
+- List of basic widgets in Flutter - Link
+
+- List of single-child and multi-child layout widgets - Link
+
+- More Information on layouts in flutter - Link
